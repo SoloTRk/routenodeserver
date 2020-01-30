@@ -55,8 +55,6 @@ function load() {
 
     return new Promise(resolve => {
 
-
-
         data = applyHaversine(data.locations);
         console.log('HAVERSINE DATA', data);
 
