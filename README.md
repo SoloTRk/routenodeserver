@@ -1,5 +1,16 @@
 # routenodeserver
 
+## KISA MESAFELERDE HATALI ÇALIŞIYOR, KULLANMAYIN.
+
+Google'dan herhangi bir veri almadığı için tamamen mesafe bazlı çalıştığından dolayı hatalı. Uzun bir caddede güzergah üzerinde teslimat noktası olmasına rağmen yolun karşısındaki bina daha yakın mesafede olduğu için onu sıraya koyuyor. Örnek:
+
+![olan.png](olan.png)
+
+Olması Gereken:
+
+![olmasi_gereken.png](olmasi_gereken.png)
+
+
 API URI =>   /api/v1/sortlocations  
 
 REQUEST SAMPLE
